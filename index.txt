@@ -7,3 +7,4 @@ I am from Hyderabad.I did my undergrad in Computer Science.I graduated in 2018.
 I would like to extend my knowledge in web applications.I am excited to learn how front end and back end web applications work.I want to be a web developer and really excited to create my own web applications.
 
 I believe that  this course helps me to learn how web applications are done, how they work and I believe this would gain me required skills and knowledge to be a web developer.
+
