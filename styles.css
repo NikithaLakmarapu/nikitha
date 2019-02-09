@@ -28,3 +28,8 @@ opacity:0.9;
 .table,.th,.td {
   border: 1px solid black;
 }
+.temp
+{
+background-color: grey;
+color:white;
+}
