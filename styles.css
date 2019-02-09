@@ -1,0 +1,30 @@
+.container-img
+{
+background-color:thistle;
+  border-radius: 25px;
+  padding: 20px;
+  margin:6px;
+opacity:0.9;
+  
+}
+.bg-img
+{background-image: url(electronics.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.aside-container
+{
+background-color:slategray;
+  border-radius:20px;
+  padding: 20px;
+  margin:6px;
+}
+.footer-container
+{
+background: black;
+color: white;
+opacity:0.9;
+}
+.table,.th,.td {
+  border: 1px solid black;
+}
