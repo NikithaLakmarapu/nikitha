@@ -17,7 +17,7 @@ component Scintilla, Notepad++ is written in C++ and uses pure Win32 API and
 1. CSS: - [css](https://www.w3schools.com/w3css/4/w3.css) adds designs and makes your webpage attractive.
 1. JavaScript: - [JavaScript](https://www.javascript.com/) is a programming language.
 ## Contributers
-Iam Nikitha Lakmarapu.
+Iam Nikitha.
 Iam in section02 of webapps in Applied computer science.
 I love horses.This is one of my favourite breed.
 
